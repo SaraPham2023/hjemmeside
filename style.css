@@ -1,0 +1,46 @@
+body {
+  background-color: lightblue;
+  font-family: sans-serif;
+}
+
+h1 {text-align: center;
+color: tomato;
+font-size: 50px;
+font-weight: bold;
+}
+
+h2 {text-align: center;
+color: grey;
+font-size: 30px;
+}
+
+p {text-align: center;
+color: grey;
+font-size: 20px;
+}
+
+ul {text-align: center;
+color: grey;
+}
+
+li {
+  text-align: center;
+  color: grey;
+}
+
+ol {text-align: center;
+color: grey;}
+
+.sitat {
+  font-size: 40px;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.bilder {
+  width: 200px;
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
